@@ -5,7 +5,7 @@ Least square approximator:
 This pythonn script Graphically checks the best fit for a given Real set points .Plus the error function is printed for each order polynomial estimation.!
 Soon Support For Complex Field Input will be up
 And Trig /Elliptical estimation will be commited soon 
-
+However this script only deals with specific polynomials .not Composite functions!!
 [ErrorFunction](https://user-images.githubusercontent.com/92035508/147105968-76076175-3d0e-4087-9113-835f546e7269.PNG)
 ![FirstOrder](https://user-images.githubusercontent.com/92035508/147105977-1dec5147-6841-424d-a660-05979fb16cf3.PNG)
 ![SecondOrder](https://user-images.githubusercontent.com/92035508/147105983-7b40966b-6068-419e-9eb3-a647a2492c7b.PNG)
